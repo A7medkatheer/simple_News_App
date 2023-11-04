@@ -1,4 +1,4 @@
-# news_app_tharwat
+# news_app
 
 A new Flutter project.
 
